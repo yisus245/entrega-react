@@ -1,0 +1,16 @@
+.container {
+  background-color: blue;
+}
+
+.menu > li {
+  position: relative;
+  display: inline-block;
+}
+
+.menu > li > a {
+  display: block;
+  padding: 15px 20px;
+  color: black;
+  font-family: "Open sans";
+  text-decoration: none;
+}
